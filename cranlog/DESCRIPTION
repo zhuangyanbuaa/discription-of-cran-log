@@ -1,0 +1,12 @@
+Package: cranlog
+Type: Package
+Title: A package for downloading log file from cran log site
+Version: 0.1
+Date: 2016-07-07
+Author: Yan Zhuang
+Maintainer: Yan Zhuang <zhuangyanbuaa@gmail.com>
+Description: A package for downloading log file from cran log site
+License: No License
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Imports: installr
